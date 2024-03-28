@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    border: 0;
+}
+.navbar .navbar-nav .navbar-brand .nav-link{
+    color: wheat;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar .nav-link .navbar-brand{
+    text-decoration: none;
+    color:black;    
+}
+.logo .fa-solid{
+    font-size: 20px;
+}
+.nav-link .navbar-brand{
+    color: black;
+}
+.icons .fa-solid{
+    color: black;
+    margin: 7px;
+}
+#demo{
+    width: 100%;
+}
+.carousel-caption{
+margin-bottom: 150px;
+}
+.carousel-caption button{
+    border-radius: 25px;
+    background-color: white;
+    width: 100px;
+    height: 35px;   
+}
+.carousel-caption button a{
+    text-decoration: none;
+    color: black;
+    transition: 4s;
+}
+.carousel-caption button a:hover{
+   color: white;    
+}
+.carousel-caption button:hover{
+    background-color: red;
+}
+.container .btns{
+    margin-left: 310px;
+    margin-top: 30px;
+    line-height: 1.5px;
+    border-radius: 30px;
+}
+.container button a{
+    text-decoration: none;
+    color: black;
+}
+.container button[type=button]{
+    border-radius: 25px;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+.container button[type=button] a{
+    color:black
+}
+ .card-deck{
+margin-top: 50px;
+ }
+ .card-deck .card{
+    border: none;
+ }
+ .card-body .rating{
+    margin-left: 50px;
+}
+.fa-star{
+    color: #c61f3b;
+}
+button .rounded-circle{
+    padding: 3px;
+}
+.rounded-circle{
+    width: 45px;
+    height: 45px;
+    color: white;
+    position: absolute;
+    left: 190px;
+    top: 20px;
+}
+.card-deck{
+    transition: 4sec;
+}
+.card-deck .card-img-top:hover{
+border: 2px solid lightblue;
+}
+.card-deck .card-body button {
+    background: white;
+    border: 1px solid black;
+    border-radius: 20px;
+ }
+ .fa-heart{
+    color: #c61f3b;
+ }
+.card-deck  .fa-heart{
+    position: absolute;
+    left: 190px;
+    top: 20px;
+}
+.box .offer{ 
+    position: relative;
+    bottom: 250px;
+    margin-left: 140px;
+    color: white;
+}
+.box .offer h1{
+    font-size: 50px;
+}
+.box .offer button{
+    border-radius: 30px;
+    width: 100px;
+    height: 35px;
+}
+.box-2 h2{
+    position: relative;
+    bottom: 70px;
+}
+.about-us{
+background-color: whitesmoke;
+width: auto;
+height: 330px;
+}
+.about-us img{
+    width: 375px;
+    height: 250px;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.about-us .about{
+    position: relative;
+    bottom: 250px;
+    margin-left: 600px;
+}
+.best{
+    margin-top: 45px;
+    margin-left:90px;
+}
+.best h3{
+    display: inline;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.topsale{
+    margin-top: 20px;
+    margin-left: 240px;
+    transition: 5s;
+}
+.topsale img{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 220px;
+}
+.topsale img:hover{
+    border: 2px solid lightskyblue;
+}
+.shirt-price{
+    margin-left: 185px;
+    position: relative;
+    bottom: 150px;
+}
+.shirt-price p{
+    position: relative;
+    display: inline;
+    margin-left: 220px;
+    margin-right: 70px;
+}
+.box-3{
+    background-color: whitesmoke;
+    height: 350px;
+}
+.box-3 {
+  padding-top: 50px;
+  padding-left: 550px;
+}
+.news{
+    margin-top: 30px;
+}
+.news input[type=text]{
+    width: 250px;
+    border-radius: 50px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.news button{
+    width: 90px;
+    border-radius: 50px;
+}
+.input-group .input-group-append{
+    border-radius: 50px;
+}
+ footer .fa-sharp{
+    color: red;
+ }
+footer .fa-solid {
+    color: red;
+}
+footer .fa-brands{
+    color: lightskyblue;
+}
+
